@@ -276,7 +276,7 @@ Development updates from [`sevkibaba`](https://github.com/sevkibaba/)
 
 ## hnsmrtn
 
-Development updates from [`hmux`](https://github.com/hmux/)
+Development updates from [`hnsmrtn`](https://github.com/hnsmrtn/)
 
 ### hnsmrtn: Update 1
 
