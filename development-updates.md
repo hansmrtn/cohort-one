@@ -274,19 +274,19 @@ Development updates from [`sevkibaba`](https://github.com/sevkibaba/)
 
 [See notes on Stage-1-to-2](./notes/sevki/Stage-1-to-2-Notes.md)
 
-## hmux
+## hnsmrtn
 
 Development updates from [`hmux`](https://github.com/hmux/)
 
-### hmux: Update 1
+### hnsmrtn: Update 1
 
 [Update #1](https://hackmd.io/@hansmrtn/Hyytr4ZVF)
 
-### hmux: Update 2
+### hnsmrtn: Update 2
 
 [Update #2](https://hackmd.io/@hansmrtn/ry5dKuREt)
 
-### hmux: Update 3
+### hnsmrtn: Update 3
 
 [Update #3](https://hackmd.io/@hansmrtn/HyyhYLqpK)
 
